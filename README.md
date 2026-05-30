@@ -35,15 +35,15 @@ The simulation was used to check the code logic, dashboard layout, OLED output, 
 
 #### Web Dashboard Simulation
 
-<img src="docs/images/dashboard.png" alt="ESP32 self-levelling gimbal WiFi dashboard" width="600">
-
-#### Wokwi Circuit Simulation
-
-<img src="docs/images/wokwi-circuit.png" alt="Wokwi circuit wiring layout for ESP32 gimbal" width="500">
+<img src="docs/images/dashboard.png" alt="ESP32 self-levelling gimbal WiFi dashboard" width="700">
 
 #### OLED Display Simulation
 
-<img src="docs/images/oled-display.png" alt="OLED display showing roll and pitch data" width="250">
+<img src="docs/images/wokwi-circuit.png" alt="Wokwi circuit wiring layout for ESP32 gimbal" width="500">
+
+#### Wokwi Circuit Simulation
+
+<img src="docs/images/oled-display.png" alt="OLED display showing roll and pitch data" width="500">
 
 ---
 
